@@ -38,7 +38,7 @@ MarkupSafe==1.1.1
 mccabe==0.6.1
 mercurial==4.5.3
 mysql-connector-python==2.1.6
-numpy==1.16.4
+numpy==1.22.0
 pandas==0.24.2
 pathlib2==2.3.4
 pexpect==4.7.0
